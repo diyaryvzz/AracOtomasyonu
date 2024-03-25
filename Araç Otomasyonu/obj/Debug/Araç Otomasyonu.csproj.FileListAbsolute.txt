@@ -1,0 +1,10 @@
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\bin\Debug\Araç Otomasyonu.exe.config
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\bin\Debug\Araç Otomasyonu.exe
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\bin\Debug\Araç Otomasyonu.pdb
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç_Otomasyonu.Form1.resources
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç_Otomasyonu.Properties.Resources.resources
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç Otomasyonu.csproj.GenerateResource.cache
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç Otomasyonu.exe
+C:\Users\diyar\source\repos\Araç Otomasyonu\Araç Otomasyonu\obj\Debug\Araç Otomasyonu.pdb
