@@ -2,10 +2,17 @@
 
 Bu uygulama, araç bilgilerini yönetmek için basit bir Windows Forms uygulamasıdır. Kullanıcılar, araçların plaka numarası, modeli, sahibi, telefon numarası, ücret ve yapılan değişiklik gibi bilgilerini ekleyebilir, güncelleyebilir, silebilir ve arayabilirler.
 
-![Araç Kayıt Ekranı](images/aracKaydet.png)
-![Araç Silme Ekranı](images/aracSil.png)
-![Araç Güncelleme Ekranı](images/aracGuncelle.png)
-![Araç Listeleme Ekranı](images/aracListele.png)
+# Araç Kayıt Ekranı
+![Araç Kayıt Ekranı](aracKaydet.png)
+
+# Araç Silme Ekranı
+![Araç Silme Ekranı](aracSil.png)
+
+# Araç Güncelleme Ekranı
+![Araç Güncelleme Ekranı](aracGuncelle.png)
+
+# Araç Listeleme Ekranı
+![Araç Listeleme Ekranı](aracListele.png)
 
 
 ## Özellikler
