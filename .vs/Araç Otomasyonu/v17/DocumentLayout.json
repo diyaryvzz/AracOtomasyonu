@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\",
+  "WorkspaceRootPath": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|c:\\users\\diyar\\documents\\github\\aracotomasyonu\\ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|solutionrelative:ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|c:\\users\\diyar\\source\\repos\\ara\u00E7 otomasyonu\\ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|solutionrelative:ara\u00E7 otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Ara\u00E7 Otomasyonu||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22375893-1B68-41B6-95DA-1C72E2474991}|Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj|c:\\users\\diyar\\source\\repos\\ara\u00E7 otomasyonu\\ara\u00E7 otomasyonu\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +24,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ara\u00E7 Otomasyonu",
-              "DocumentMoniker": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
-              "RelativeDocumentMoniker": "Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
-              "ToolTip": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
-              "RelativeToolTip": "Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-25T17:14:38.075Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
-              "RelativeDocumentMoniker": "Ara\u00E7 Otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
               "ToolTip": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:35:12.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ara\u00E7 Otomasyonu",
+              "DocumentMoniker": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
+              "RelativeDocumentMoniker": "Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
+              "ToolTip": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
+              "RelativeToolTip": "Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T17:14:38.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Ara\u00E7 Otomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
               "RelativeToolTip": "Ara\u00E7 Otomasyonu\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,15 +65,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diyar\\Documents\\GitHub\\AracOtomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs",
               "RelativeDocumentMoniker": "Ara\u00E7 Otomasyonu\\Form1.cs",
               "ToolTip": "C:\\Users\\diyar\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs [Design]",
-              "RelativeToolTip": "Ara\u00E7 Otomasyonu\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Ara\u00E7 Otomasyonu\\Ara\u00E7 Otomasyonu\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T13:26:46.846Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-25T13:26:46.846Z"
             }
           ]
         }
